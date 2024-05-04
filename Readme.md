@@ -1,3 +1,4 @@
+自动注卵宏
 The macro can automatically help zerg players spawn Larva.
 
 If you want use this macro,you need to make "TownCamera=space","CameraSaveX=Control+F6","ControlGroupAssignX=Ctrl+9","ControlGroupRecallX=9"(where X can be any number from 0 to 9)
