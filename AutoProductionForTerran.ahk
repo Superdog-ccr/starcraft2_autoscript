@@ -5,6 +5,7 @@
 ;The script can automatically help terran players product units like Marine and Marauder periodically.
 ;press "-"or "=" to decrease or increase the number of periodic training Marine separately
 ;press "["or "]" to decrease or increase the number of periodic training Marauder separately
+;press "delete" to reset the number
 ;If you want use this script,you need to make sure Group buttons "9" is available.
 ;which means you need to set "ControlGroupAssignX=Ctrl+9","ControlGroupRecallX=9"(where X can be any number from 0 to 9).
 ;It's better to place your Barracks at "5" .
