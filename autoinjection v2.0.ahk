@@ -1,7 +1,7 @@
 
 #Requires AutoHotkey v2.0
 #MaxThreadsPerHotkey 2
-;press f5 to start script
+;press f5 to start script and press it again to stop
 ;The script can automatically help zerg players spawn Larva.
 ;If you want use this script,you need to make "TownCamera=space","CameraSaveX=Control+F6","ControlGroupAssignX=Ctrl+9","ControlGroupRecallX=9"(where X can be any number from 0 to 9)
 ;Apparently, "SpawnLarva=V(I forget its English name.whatever you definitely know what am i talking about)"
